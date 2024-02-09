@@ -48,6 +48,8 @@ The following tools were used in the construction of the project:
 
 ## 🤔 How to test?
 
+You can test the system with any API platform like Postman, Insomnia, Hocuspocus.
+
 ### Create a poll
 
 1. **Method:** POST
@@ -121,7 +123,7 @@ The following tools were used in the construction of the project:
 ### Use Websockets
 
 1. **URL:** <ws://localhost:3333/polls/:pollId/results> (Replace `:pollId` with the poll id)
-2. **Response Body:** It will return all poll's votes it was change, just like that ⬇️
+2. **Response Body:** It will return all poll's votes it was changed, just like that ⬇️
 
 ```json
 { "pollOptionId": "cb65517d-e806-4698-a42c-8abe1121e428", "votes": 1 }
