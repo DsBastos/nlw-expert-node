@@ -21,30 +21,20 @@
 </h4>
 
 <center>
-
-[About](#about) •
-[Tech](#tech) •
-[How to test?](#how-to-test) •
-[Getting Started](#getting-started) •
-[Author](#author)
-
-</center>
-
-<center>
     <img alt="Poster" src="scheme.png" />
 </center>
 
-## About
+## 💻 About
 
 This project was developed as a result of Rocketseat's Next Level Week (NLW) program.
 
 This is a voting system that allows users to create polls and vote in real time using the Fastify (Node.js framework) and TypeScript.
 
-Prisma is a ORM that consists of auto-generated and type-safe query builder for Node.js & TypeScript. PostgreSQL stored the polls and his respective options.
+Prisma is a ORM that consists of auto-generated and type-safe query builder.PostgreSQL stored the polls and his respective options.
 
 Redis was use to make webSocket real-time vote updates and ranking of the available options.
 
-## Tech
+## 🛠️ Tech
 
 The following tools were used in the construction of the project:
 
@@ -56,7 +46,7 @@ The following tools were used in the construction of the project:
 - **[Redis](https://redis.io/)**
 - **[Postman](https://www.postman.com/)**
 
-## How to test?
+## 🤔 How to test?
 
 ### Create a poll
 
@@ -137,7 +127,7 @@ The following tools were used in the construction of the project:
 { "pollOptionId": "cb65517d-e806-4698-a42c-8abe1121e428", "votes": 1 }
 ```
 
-## Getting Started
+## 👨🏻‍💻 Getting Started
 
 1 - Clone the git clone repository <https://github.com/DsBastos/nlw-expert-node>
 
@@ -149,7 +139,7 @@ The following tools were used in the construction of the project:
 
 5 - run the server: `npm run dev`
 
-## Author
+## 🙂 Author
 
 <a href="https://www.linkedin.com/in/daniel-bastos98/">
 <img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/29290002?s=400&u=30a3e2a8c4f61097a9d2366964baefc176a60b89&v=4" width="100px;" alt="Daniel Bastos "/>
