@@ -4,17 +4,13 @@
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/dsbastos/nlw-expert-node">
-
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/dsbastos/nlw-expert-node">
-
   <a href="https://github.com/dsbastos/nlw-expert-node">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/dsbastos/nlw-expert-node">
   </a>
-
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
    <a href="https://github.com/dsbastos/nlw-expert-node/stargazers">
   </a>
-
   <a href="https://www.linkedin.com/in/daniel-bastos98/">
     <img alt="made by Daniel Bastos" src="https://img.shields.io/badge/made%20by-Daniel%20Bastos-blue">
   </a>
@@ -24,19 +20,21 @@
   Status: Finished
 </h4>
 
-<p align="center">
-About •
-Features •
-Tech •
-How to test? •
-Author
-</p>
+<center>
 
-<h1 align="center">
+[About](#about) •
+[Tech](#tech) •
+[How to test?](#how-to-test) •
+[Getting Started](#getting-started) •
+[Author](#author)
+
+</center>
+
+<center>
     <img alt="Poster" src="scheme.png" />
-</h1>
+</center>
 
-## 💻 About
+## About
 
 This project was developed as a result of Rocketseat's Next Level Week (NLW) program.
 
@@ -46,7 +44,7 @@ Prisma is a ORM that consists of auto-generated and type-safe query builder for 
 
 Redis was use to make webSocket real-time vote updates and ranking of the available options.
 
-## 🛠️ Tech
+## Tech
 
 The following tools were used in the construction of the project:
 
@@ -58,7 +56,7 @@ The following tools were used in the construction of the project:
 - **[Redis](https://redis.io/)**
 - **[Postman](https://www.postman.com/)**
 
-## 🤔 How to test?
+## How to test?
 
 ### Create a poll
 
@@ -139,7 +137,7 @@ The following tools were used in the construction of the project:
 { "pollOptionId": "cb65517d-e806-4698-a42c-8abe1121e428", "votes": 1 }
 ```
 
-## 👨🏻‍💻 Getting Started
+## Getting Started
 
 1 - Clone the git clone repository <https://github.com/DsBastos/nlw-expert-node>
 
@@ -151,7 +149,7 @@ The following tools were used in the construction of the project:
 
 5 - run the server: `npm run dev`
 
-## 🙂 Author
+## Author
 
 <a href="https://www.linkedin.com/in/daniel-bastos98/">
 <img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/29290002?s=400&u=30a3e2a8c4f61097a9d2366964baefc176a60b89&v=4" width="100px;" alt="Daniel Bastos "/>
